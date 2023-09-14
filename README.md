@@ -20,7 +20,11 @@ You will be provided a template, with a given number of tasks to be completed wi
     - Vegan
     - Side
     - Dessert
-
-The tasks may vary from incorporating JavaScript method, DOM manipulation, and CSS styling.
-
-Their completed code must be bug-free, fully functional, and aesthetically concise.# IF_23_24_week_6_assessment_COMPLETED
+2. Test that each category works accordingly
+3. In main.js, each item should have a header and an accompanying image, both if which are accessible through the data variable's properties in the fetch request
+    1. Add a header to the container
+    2. Add an image to the container UNDER the header
+    3. For both, use the JavaScript method appendChild
+4. In style, each element in the mealContainer should be centered
+    Reference:
+    ![Styling Reference](https://raw.githubusercontent.com/The-Knowledge-House/IF_23_24_week_6_assessment_TEMPLATE/main/week_6_assessment_project_TEMPLATE/images/reference.png?token=GHSAT0AAAAAACHRUK46CVMED2NPS5I2YQUOZIDSCFA)
