@@ -31,9 +31,9 @@ You will be provided a template, with a given number of tasks to be completed wi
 ## How You Will Be Graded
 
 Your assessment will be considered graded and passing when each of the following is done:
-    1. Your code is bug-free. The console should not return any errors and executing your project should create a positive user experience
-    2. Each ``category`` appropriately retrieves the ``data`` from its API (already provided)
-    3. Each meal is styled, centered, and neat. Ensure it is easy to read and the images are scaled at an appropriate size and resolution
+1. Your code is bug-free. The console should not return any errors and executing your project should create a positive user experience
+2. Each ``category`` appropriately retrieves the ``data`` from its API (already provided)
+3. Each meal is styled, centered, and neat. Ensure it is easy to read and the images are scaled at an appropriate size and resolution
 
    Reference:
     ![Styling Reference](https://raw.githubusercontent.com/The-Knowledge-House/IF_23_24_week_6_assessment_TEMPLATE/main/week_6_assessment_project_TEMPLATE/images/reference.png?token=GHSAT0AAAAAACHRUK46CVMED2NPS5I2YQUOZIDSCFA)
