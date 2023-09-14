@@ -20,7 +20,13 @@ You will be provided a template, with a given number of tasks to be completed wi
     - Vegan
     - Side
     - Dessert
-
-The tasks may vary from incorporating JavaScript method, DOM manipulation, and CSS styling.
+2. Test that each category works accordingly
+3. In main.js, each item should have a header and an accompanying image, both if which are accessible through the data variable's properties in the fetch request
+    1. Add a header to the container
+    2. Add an image to the container UNDER the header
+    3. For both, use the JavaScript method appendChild
+4. In style, each element in the mealContainer should be centered
+    Reference:
+    
 
 Their completed code must be bug-free, fully functional, and aesthetically concise.# IF_23_24_week_6_assessment_COMPLETED
