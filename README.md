@@ -9,7 +9,7 @@ You will be provided a template, with a given number of tasks to be completed wi
 
 ## Tasks
 
-1. In main.js, add more categories to the CATEGORY array, including:
+1. In main.js, add more categories to the `CATEGORY` array, including:
     - Beef
     - Chicken
     - Lamb
