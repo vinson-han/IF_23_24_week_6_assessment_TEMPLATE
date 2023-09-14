@@ -26,5 +26,6 @@ You will be provided a template, with a given number of tasks to be completed wi
     2. Add an image to the container UNDER the header
     3. For both, use the JavaScript method appendChild
 4. In style, each element in the mealContainer should be centered
-    Reference:
+
+   Reference:
     ![Styling Reference](https://raw.githubusercontent.com/The-Knowledge-House/IF_23_24_week_6_assessment_TEMPLATE/main/week_6_assessment_project_TEMPLATE/images/reference.png?token=GHSAT0AAAAAACHRUK46CVMED2NPS5I2YQUOZIDSCFA)
