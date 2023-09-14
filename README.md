@@ -26,7 +26,7 @@ You will be provided a template, with a given number of tasks to be completed wi
     2. Add an ``image`` to the container UNDER the header
        - Style the image with appropriate dimensions so that it is not stretching or warping
     4. For both, use the JavaScript method ``appendChild``
-4. In style, each element in the ``mealContainer`` class should be centered.
+4. In style.css, each element in the ``mealContainer`` class should be centered.
 
 ## How You Will Be Graded
 
