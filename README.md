@@ -9,7 +9,7 @@ You will be provided a template, with a given number of tasks to be completed wi
 
 ## Tasks
 
-1. In main.js, add more categories to the ``CATEGORY`` array, including:
+1. In ``main.js``, add more categories to the ``CATEGORY`` array, including:
     - Beef
     - Chicken
     - Lamb
@@ -21,12 +21,12 @@ You will be provided a template, with a given number of tasks to be completed wi
     - Side
     - Dessert
 2. Test that each category works accordingly
-3. In main.js, each item should have a header and an accompanying image, both if which are accessible through the ``data`` variable's properties in the fetch request
+3. In ``main.js``, each item should have a header and an accompanying image, both if which are accessible through the ``data`` variable's properties in the fetch request
     1. Add a ``header`` to the container
     2. Add an ``image`` to the container UNDER the header
        - Style the image with appropriate dimensions so that it is not stretching or warping
     4. For both, use the JavaScript method ``appendChild``
-4. In style.css, each element in the ``mealContainer`` class should be centered.
+4. In ``style.css``, each element in the ``mealContainer`` class should be centered.
 
 ## How You Will Be Graded
 
