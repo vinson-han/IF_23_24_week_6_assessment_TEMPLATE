@@ -40,7 +40,7 @@ function getFetch() {
     .then(data => {
       // the line below clears the HTML each time a new category is requested, so that the items don't stack each time
       mealsList.innerHTML = "";
-      console.log(data)
+  
       // per category that is received in the data object,
       // there is a meals array
       // we will use the meals array to access individual meals
