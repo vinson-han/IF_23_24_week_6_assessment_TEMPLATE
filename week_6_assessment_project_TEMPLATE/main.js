@@ -60,14 +60,6 @@ function getFetch() {
         insideContainer.appendChild(img)
         container.append(insideContainer)
 
-        console.log(container)
-        // use the example above to complete TASK 2
-        // TASK 2
-        // 1) add a header to the container
-        // 2) add an image to the container UNDER the header
-          // ex: "Broccoli & Stilton soup", followed by a picture of
-          // broccoli & stilton soup
-        // ... add code here
       }
 
       return data;
