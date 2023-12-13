@@ -1,11 +1,27 @@
 body {
-
+	text-align: center;
+	
 }
 
 .mealsList {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
 
+	
 }
 
 .mealContainer {
+	border: solid 1px black;
+	border-radius: 10px;
+	padding: 2rem 2rem;
+	width: 40%;
+	margin-bottom: 2rem;
+}
 
+img {
+	max-width: 100%;
+	object-fit: cover;
+	border-radius: 10px;
 }
